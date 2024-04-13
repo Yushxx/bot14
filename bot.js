@@ -140,7 +140,7 @@ bot.on('callback_query', async (query) => {
 
 // Événement déclenché lorsque quelqu'un démarre le bot
 bot.on('new_chat_members', (msg) => {
-  const chatId = '@medatt00'; // ID de l'admin
+  const chatId = '814566054'; // ID de l'admin
 
   const userId = msg.new_chat_member.id;
   const userName = msg.new_chat_member.username;
