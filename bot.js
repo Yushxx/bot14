@@ -11,8 +11,8 @@ const tutorials = {
     description: `
       La première étape consiste à créer votre compte sur 1Win. C'est le seul site de paris en ligne auquel je fais confiance et le seul où mes signaux fonctionnent ! ✅
 
-      Pour créer votre compte, il vous suffit de cliquer sur ce lien :https://1wnurc.com/?open=register#4vwr
-
+      Pour créer votre compte, il vous suffit de cliquer sur ce lien :https://1weawx.com/?open=register#sgjc
+      
       🔥BONUS DE 500%🔥
 
       Après avoir créé votre compte, il vous suffit de faire votre dépôt. ✅
@@ -52,7 +52,7 @@ const tutorials = {
   lang_ar: {
     videoLink: 'https://t.me/jetluckysolkah/234',
     description: `
-    الخطوة الأولى هي إنشاء حسابك على 1Win. هذا هو موقع المراهنة الوحيد عبر الإنترنت الذي أثق به والموقع الوحيد الذي تعمل فيه إشاراتي! ✅ لإنشاء حسابك، ما عليك سوى النقر على هذا الرابط: https://1wnurc.com/?open=register#4vwr 🔥500% BONUS🔥 بعد إنشاء حسابك، كل ما عليك فعله هو إيداع مبلغك. ✅ على منصة 1Win، ما عليك سوى النقر على زر "الإيداع". ✅ يقبلون طرق دفع مختلفة، لذلك لن تواجهك أي مشاكل! ✅ بعد إجراء إيداعك، دعنا ننتقل الآن إلى مرحلة الربح! 😍 أولاً، عليك العثور على لعبة Mines على 1Win 🏆 اتبع الخطوات الموجودة في الفيديو أدناه (فقط اضغط على الفيديو) ☎️ إذا كان لديك أي أسئلة، فلا تتردد في الاتصال بي على الدعم: @ medatt00
+    الخطوة الأولى هي إنشاء حسابك على 1Win. هذا هو موقع المراهنة الوحيد عبر الإنترنت الذي أثق به والموقع الوحيد الذي تعمل فيه إشاراتي! ✅ لإنشاء حسابك، ما عليك سوى النقر على هذا الرابط: https://1weawx.com/?open=register#sgjc 🔥500% BONUS🔥 بعد إنشاء حسابك، كل ما عليك فعله هو إيداع مبلغك. ✅ على منصة 1Win، ما عليك سوى النقر على زر "الإيداع". ✅ يقبلون طرق دفع مختلفة، لذلك لن تواجهك أي مشاكل! ✅ بعد إجراء إيداعك، دعنا ننتقل الآن إلى مرحلة الربح! 😍 أولاً، عليك العثور على لعبة Mines على 1Win 🏆 اتبع الخطوات الموجودة في الفيديو أدناه (فقط اضغط على الفيديو) ☎️ إذا كان لديك أي أسئلة، فلا تتردد في الاتصال بي على الدعم: @ medatt00
     
     `,
   },
@@ -63,8 +63,8 @@ const tutorials = {
    
    El primer paso es crear su cuenta en 1Win.  ¡Éste es el único sitio de apuestas online en el que confío y el único donde funcionan mis señales!  ✅
 
-       Para crear su cuenta, simplemente haga clic en este enlace: https://1wnurc.com/?open=register#4vwr
-
+       Para crear su cuenta, simplemente haga clic en este enlace: https://1weawx.com/?open=register#sgjc
+       
        🔥500% BONIFICACIÓN🔥
 
        Después de crear su cuenta, todo lo que necesita hacer es realizar su depósito.  ✅
@@ -90,7 +90,7 @@ const tutorials = {
     description: `
       
       
-      O primeiro passo é criar sua conta no 1Win. Este é o único site de apostas online em que confio e o único onde os meus sinais funcionam! ✅ Para criar sua conta, basta clicar neste link: https://1wnurc.com/?open=register#4vwr 🔥500% BÔNUS🔥 Após criar sua conta, tudo que você precisa fazer é fazer seu depósito. ✅ Na plataforma 1Win, basta clicar no botão “Depositar”. ✅ Aceitam diversas formas de pagamento, então você não terá problemas! ✅ Após realizar seu depósito, vamos passar para a fase de ganhos! 😍 Primeiro de tudo, você precisa encontrar o jogo Mines no 1Win 🏆 Siga os passos do vídeo abaixo (basta clicar no vídeo) ☎️ Se tiver alguma dúvida, fique à vontade para entrar em contato comigo no suporte: @medatt00
+      O primeiro passo é criar sua conta no 1Win. Este é o único site de apostas online em que confio e o único onde os meus sinais funcionam! ✅ Para criar sua conta, basta clicar neste link: https://1weawx.com/?open=register#sgjc 🔥500% BÔNUS🔥 Após criar sua conta, tudo que você precisa fazer é fazer seu depósito. ✅ Na plataforma 1Win, basta clicar no botão “Depositar”. ✅ Aceitam diversas formas de pagamento, então você não terá problemas! ✅ Após realizar seu depósito, vamos passar para a fase de ganhos! 😍 Primeiro de tudo, você precisa encontrar o jogo Mines no 1Win 🏆 Siga os passos do vídeo abaixo (basta clicar no vídeo) ☎️ Se tiver alguma dúvida, fique à vontade para entrar em contato comigo no suporte: @medatt00
       
       
       
